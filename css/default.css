@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+  }
+  /* BASE STYLES - DO NOT EDIT */
+  .container {
+    border:1px solid;
+  }
+  header {
+    background-color: pink;
+    border:1px solid;
+  }
+  footer {
+    background-color: lightgreen;
+    border:1px solid;
+  }
+  main {
+    background-color: lightblue;
+    border:1px solid;
+  }
+  aside {
+    background-color: lightyellow;
+    border:1px solid;
+  }
+  article {
+    border:1px solid;
+  }
+  section {
+    border:1px solid;
+  }
